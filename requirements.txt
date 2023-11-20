@@ -1,0 +1,10 @@
+asgiref
+Django
+gunicorn
+packaging
+Pillow
+psycopg2-binary
+python-decouple
+sqlparse
+tzdata
+whitenoise
